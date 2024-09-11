@@ -1,0 +1,23 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Jane Smith",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Dr. Smith is an amazing professor! Her lectures are clear, and she’s always willing to help."
+      },
+      {
+        "professor": "Dr. John Doe",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Great professor, but his exams are really tough. Make sure you study hard!"
+      },
+      {
+        "professor": "Dr. Emily White",
+        "subject": "Physics",
+        "stars": 3,
+        "review": "She’s knowledgeable, but her lectures can be a bit dry. Lab sessions are more engaging."
+      }
+    ]
+  }
+  
